@@ -9,16 +9,16 @@
 Projeto Desenvolvido com a finalidade de estudos, os dados retornados são [JSON](https://jsonplaceholder.typicode.com/posts). .
 Neste projeto usa-se o Fetch para:
 
-- buscar dados da API
-- publicar em BLOG.
-- post com resumo e link "Ler" para leitura completa do Post.
+-   buscar dados da API
+-   publicar em BLOG.
+-   post com resumo e link "Ler" para leitura completa do Post.
 
 ## 💻 Tecnologias Usadas
 
-- CSS
-- HTML
-- JAVASCRIPT
-- GIT
+-   CSS
+-   HTML
+-   JAVASCRIPT
+-   GIT
 
 [Fetch_API - documentação](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 
@@ -32,4 +32,5 @@ Neste projeto usa-se o Fetch para:
 
 ## Para usar o projeto
 
-- fazer o clone do repositorio[fetch-api](https://github.com/WMS66/fetch-api)
+-   fazer o clone do repositorio
+-   [fetch-api](https://github.com/WMS66/fetch-api)
